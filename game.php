@@ -27,7 +27,7 @@ include 'PushButtonInterface.php';
         }
         public function setShoot()
         {
-        	echo "Shoot! "."<br>";
+        	echo "Shoot! ( -_･) ︻デ═一 ▸"."<br>";
         }
         public function shootpush()
         {
