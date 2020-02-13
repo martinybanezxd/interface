@@ -27,7 +27,7 @@ include 'PushButtonInterface.php';
         }
         public function setShoot()
         {
-        	echo "Shoot! Pew! Pew! Pew!"."<br>";
+        	echo "Shoot! BANG!! BANG!! *dies*"."<br>";
         }
         public function shootpush()
         {
