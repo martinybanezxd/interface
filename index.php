@@ -4,7 +4,7 @@
 	<title>index</title>
 </head>
 <body>
-<a href="game.php">Play the game and BANG BANG!
+<a href="game.php">Press Here to play and shoot!
 </a>
 </body>
 </html>
